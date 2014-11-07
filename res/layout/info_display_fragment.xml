@@ -1,0 +1,80 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dip"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView_1"
+                android:layout_width="fill_parent"
+                android:layout_height="100dip"
+                android:background="#FF0000"
+                android:gravity="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView_2"
+                android:layout_width="fill_parent"
+                android:layout_height="100dip"
+                android:layout_marginTop="10dip"
+                android:background="#FF0000"
+                android:gravity="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView_3"
+                android:layout_width="fill_parent"
+                android:layout_height="100dip"
+                android:layout_marginTop="10dip"
+                android:background="#FF0000"
+                android:gravity="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView_4"
+                android:layout_width="fill_parent"
+                android:layout_height="100dip"
+                android:layout_marginTop="10dip"
+                android:background="#FF0000"
+                android:gravity="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView_5"
+                android:layout_width="fill_parent"
+                android:layout_height="100dip"
+                android:layout_marginTop="10dip"
+                android:background="#FF0000"
+                android:gravity="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView_6"
+                android:layout_width="fill_parent"
+                android:layout_height="100dip"
+                android:layout_marginTop="10dip"
+                android:background="#FF0000"
+                android:gravity="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView_7"
+                android:layout_width="fill_parent"
+                android:layout_height="100dip"
+                android:layout_marginTop="10dip"
+                android:background="#FF0000"
+                android:gravity="center"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
